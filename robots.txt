@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kaahll.csgad.com/JBF/sitemap.xml.gz
